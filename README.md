@@ -37,8 +37,13 @@ Effective inventory and sales management are critical in the retail sector. This
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-- Multiple CSV files located in `/data/` folder (sales, vendors, inventory)
-- Summary table created from ingested data and used for analysis
+- Multiple CSV files are located in the `/data/` folder (`sales`, `purchases`, `purchase_prices`, `vendor_invoice`, `begin_inventory`, and `end_inventory`).
+- The datasets were sourced from an online dataset and used for educational and analytical purposes.
+- Due to GitHub file-size limitations, representative versions of the larger CSV files are included in the repository.
+- The representative datasets preserve the original file names and column structure required for the analysis.
+- A summary table is created from the ingested data and used for analysis.
+
+---
 
 ---
 
