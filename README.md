@@ -59,6 +59,13 @@ vendor-performance-analysis/
 ├── .gitignore
 ├── requirements.txt
 ├── Vendor Performance Report.pdf
+├── data/
+│   ├── purchases.csv
+│   ├── sales.csv
+│   ├── vendors.csv
+│   ├── vendor_invoice.csv
+│   ├── purchase_prices.csv
+│   └── README.md
 │
 ├── notebooks/                  # Jupyter notebooks
 │   ├── exploratory_data_analysis.ipynb
