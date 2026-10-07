@@ -59,7 +59,7 @@ vendor-performance-analysis/
 ├── .gitignore
 ├── requirements.txt
 ├── Vendor Performance Report.pdf
-├── data/
+├── data/                       #dataset
 │   ├── purchases.csv
 │   ├── sales.csv
 │   ├── vendors.csv
